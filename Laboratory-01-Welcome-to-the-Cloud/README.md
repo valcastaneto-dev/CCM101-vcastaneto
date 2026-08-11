@@ -1,10 +1,10 @@
-Laboratory 01 - Welcome to the Cloud
+## Laboratory 01 - Welcome to the Cloud
 
-Mission Overview
+## Mission Overview
 
 This laboratory introduces the Linux environment using KillerCoda. It focuses on basic Linux commands, system information gathering, file management, and GitHub documentation.
 
-Objectives
+## Objectives
 
 - Access a cloud-based Linux environment.
 - Learn Linux commands.
@@ -12,7 +12,7 @@ Objectives
 - Organize files.
 - Create a GitHub portfolio.
 
-Activities Performed
+## Activities Performed
 
 - Created a Linux user.
 - Logged into the new account.
@@ -21,7 +21,7 @@ Activities Performed
 - Created Markdown files.
 - Uploaded files to GitHub.
 
-Linux Commands Used
+## Linux Commands Used
 
 - whoami
 - pwd
