@@ -59,6 +59,7 @@ The operating system I observed in the KillerCoda environment is Linux. I
 used the `cat /etc/os-release` command to identify the Linux distribution
 and version.
 
+| | |
 |---|---|
 | **Purpose** | An operating system manages the computer's hardware and provides an environment where applications and commands can run. |
 | **Importance in Cloud Computing** | The operating system is important in cloud computing because cloud servers need an operating environment for applications and services to run. Linux is commonly used in server and cloud environments. |
