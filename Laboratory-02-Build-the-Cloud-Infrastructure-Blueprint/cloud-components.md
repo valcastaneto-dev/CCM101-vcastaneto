@@ -1,6 +1,6 @@
 # Cloud Infrastructure Components
 
-> **Checkpoint 3** — Identification of core cloud infrastructure components
+> Identification of core cloud infrastructure components
 > observed in the KillerCoda Linux environment.
 
 ## Table of Contents
