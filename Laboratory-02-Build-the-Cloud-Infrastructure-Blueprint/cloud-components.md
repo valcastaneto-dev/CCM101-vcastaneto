@@ -4,10 +4,10 @@
 > observed in the KillerCoda Linux environment.
 
 ## Table of Contents
-- [1. Compute Resources](#1-compute-resources)
-- [2. Storage Resources](#2-storage-resources)
-- [3. Networking Resources](#3-networking-resources)
-- [4. Operating System](#4-operating-system)
+- [Compute Resources](#1-compute-resources)
+- [Storage Resources](#2-storage-resources)
+- [Networking Resources](#3-networking-resources)
+- [Operating System](#4-operating-system)
 
 ---
 
@@ -59,7 +59,6 @@ The operating system I observed in the KillerCoda environment is Linux. I
 used the `cat /etc/os-release` command to identify the Linux distribution
 and version.
 
-| | |
 |---|---|
 | **Purpose** | An operating system manages the computer's hardware and provides an environment where applications and commands can run. |
 | **Importance in Cloud Computing** | The operating system is important in cloud computing because cloud servers need an operating environment for applications and services to run. Linux is commonly used in server and cloud environments. |
