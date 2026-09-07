@@ -24,7 +24,7 @@ As part of CloudNova Technologies' Cloud Evaluation Team, this lab explores AWS,
 
 ---
 
-## 🐧 Checkpoint 7 — Linux Investigation (KillerCoda)
+## 🐧 Linux Investigation (KillerCoda)
 
 A Linux Playground was launched in KillerCoda, and Linux commands were used to identify the operating system, CPU, memory, and disk space.
 
