@@ -63,7 +63,3 @@ The Linux server could be migrated to any of the three major cloud platforms. Am
 
 ---
 
-
----
-
-<p align="center"><sub>⚠️ Note: System info output and terminal screenshots not yet included — see lab instructions for evidence requirements.</sub></p>
