@@ -87,5 +87,3 @@ AWS is commonly used by enterprises for:
 - 🛒 E-commerce platforms and digital services
 
 ---
-
-<p align="center"><sub>📸 Screenshot evidence: <code>screenshots/aws-homepage.png</code></sub></p>
