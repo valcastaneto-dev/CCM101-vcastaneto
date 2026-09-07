@@ -2,7 +2,7 @@
 
 # 🚀 Multi-Cloud Explorer
 
-**CloudNova Technologies Cloud Evaluation Team
+CloudNova Technologies Cloud Evaluation Team
 
 </div>
 
