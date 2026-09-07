@@ -58,6 +58,8 @@ The AWS Management Console is a browser-based interface used to access and manag
 | **Amazon RDS** | Provides managed relational database services. |
 | **AWS Lambda** | Runs application code without requiring the organization to manage servers. |
 
+These services represent major AWS capabilities in compute, storage, databases, and serverless computing.
+
 ---
 
 ## ✅ Three Advantages
