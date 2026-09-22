@@ -17,6 +17,6 @@
 
 ---
 
-## 📝 Summary for the Client
+## 📝 Summary
 
 Containers are a good option for web applications because they can start much faster than virtual machines. They also use less RAM and other system resources since they share the host operating system instead of running a separate OS. This makes it easier to deploy and manage applications without using too many resources. Overall, containers can help the client save time and make their web applications more efficient.
