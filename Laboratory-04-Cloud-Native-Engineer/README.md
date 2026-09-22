@@ -30,6 +30,8 @@ Congratulations! After successfully guiding our clients through multi-cloud eval
 | [`reflection.md`](./reflection.md) | Mission reflection |
 | `screenshots/` | Evidence screenshots |
 
+---
+
 ## 🖥️ Commands Executed
 
 | Command | What It Does |
