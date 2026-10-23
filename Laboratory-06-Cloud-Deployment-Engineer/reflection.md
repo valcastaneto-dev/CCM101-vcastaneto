@@ -1,0 +1,11 @@
+# 💭 The Cloud Deployment Engineer – Reflection
+
+In this laboratory activity, I learned how Docker Compose makes deploying applications easier and faster. Before, I thought that setting up an application required running many commands one by one. However, I learned that by creating a `docker-compose.yml` file, I could configure both Nextcloud and MariaDB in one place and start them using a single command. This made me realize how helpful automation is in cloud computing.
+
+I also learned that proper indentation is important when writing YAML files. Even a small mistake, such as using tabs instead of spaces or placing lines in the wrong position, can cause errors and prevent the configuration from working correctly. Because of this, I understood the importance of being careful when writing and checking configuration files.
+
+Another thing I learned was the purpose of environment variables, such as `MYSQL_PASSWORD`, `MYSQL_DATABASE`, and `MYSQL_USER`. These variables provide the information needed for Nextcloud and MariaDB to communicate with each other. I also understood that `MYSQL_HOST=database` allows Nextcloud to find the database container through Docker Compose networking.
+
+What I found interesting about this activity was learning how to set up a cloud storage application like Nextcloud in just a few minutes. It helped me understand how containers can work together to create a complete application. I also realized that checking whether the containers are running and accessing the application through a browser are important steps in making sure the deployment works properly.
+
+Since Mission 1, my understanding of cloud computing has improved. I now have a better idea of how applications are deployed and how automation makes managing infrastructure easier. This activity taught me that cloud computing is not only about storing data online but also about building, connecting, and managing services efficiently. Overall, this mission helped me gain new knowledge and practical skills that I can use in future cloud computing activities.
