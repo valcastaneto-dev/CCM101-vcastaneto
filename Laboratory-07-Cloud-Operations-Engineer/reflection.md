@@ -1,0 +1,11 @@
+# 💭 Mission Reflection
+
+In this laboratory activity, I learned that monitoring a cloud server is just as important as deploying an application. Even if containers are running properly, it is still necessary to check the host server's resources. Containers share the server's CPU, memory, and storage, so if these resources become insufficient, the application may slow down or stop working. Checking the system regularly helps prevent problems before they affect users.
+
+I also learned how useful the `docker logs` command is when troubleshooting an application. For example, if a user cannot log in to a website, I can check the logs for errors and failed requests that may explain the problem. The logs provide information about what happened, including request details, timestamps, and HTTP status codes. This makes it easier to investigate instead of simply guessing the cause.
+
+Another thing I learned is the difference between logs and metrics. Logs show specific events that happen inside an application, while metrics provide numerical information about performance, such as CPU usage, memory consumption, and network activity. Both are important because logs help explain problems, while metrics help identify unusual resource usage.
+
+For large companies that manage thousands of containers, tools like Prometheus and Grafana can make monitoring easier. Prometheus collects and stores performance metrics, while Grafana displays the information through dashboards. These tools help engineers monitor many systems at once and identify possible issues quickly.
+
+Overall, this activity improved my confidence in using Linux commands and Docker to check application health. I learned how to generate HTTP requests, identify a 404 error, inspect application logs, and monitor container resources using `docker stats`. I also realized that troubleshooting requires patience and careful observation. Instead of guessing when something goes wrong, I can use actual system information to understand the problem and make better decisions. These skills will be useful as I continue learning about cloud computing and server management.
